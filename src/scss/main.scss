@@ -4,11 +4,7 @@
   padding: 0;
 }
 
-a {
-  color: inherit;
-}
-
-img,
-video {
+img {
   display: block;
+  max-width: 400px;
 }
